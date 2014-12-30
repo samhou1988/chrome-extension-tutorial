@@ -1,4 +1,4 @@
 chrome-extension-tutorial
 =========================
 
-study the chrome extension develop
+learn the chrome extension develop
